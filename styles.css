@@ -1,0 +1,71 @@
+body{
+   background-color: pink; 
+}
+.top{
+    text-align: center;
+    background-color: pink; 
+    color: whitesmoke;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.top2{
+    text-align: center;
+    background-color: pink; 
+    color: whitesmoke;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 75px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.container{
+    background-color: pink;
+}
+
+button {
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: rgb(255, 170, 184);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 30px;
+    border: none;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 0 8px 15px rgba(255, 255, 255, 0.5); /* Subtle pink shadow */
+    transition: all 0.3s ease-in-out;   
+   
+    
+}
+
+button:hover {
+    box-shadow: 0 20px 30px rgba(247, 247, 247, 0.7); 
+    transform: translateY(-10px); 
+}
+
+.buttonss{
+    
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 100px;
+}
+
+.tobottom{
+    padding-bottom: 300px;
+}
+
+.imgs{
+    padding-left: 10px;
+}
+
+.buttaaan{
+    padding-bottom: 200px;
+    padding-left: 30px;
+}
